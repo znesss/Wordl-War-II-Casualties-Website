@@ -1,0 +1,639 @@
+Nationality,Location,StartDate,EndDate,MinDeaths,MaxDeaths,DeathsOverride,DeathsFinal,AirRate,CivilianRate,IntentionalRate,Tags,AirForce,Notes,Sources
+United States,,12/1/1941,12/31/1941,493,493,668.0649463,493.00,,0,,,,,
+United States,,1/1/1942,1/31/1942,517,517,700.5873778,517.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,2/1/1942,2/29/1942,398,398,539.3303218,398.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,3/1/1942,3/31/1942,135,135,182.938677,135.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,4/1/1942,4/30/1942,"1,051","1,051",1424.211478,1051.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,5/1/1942,5/31/1942,"12,311","12,311",16682.65224,12311.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,6/1/1942,6/30/1942,184,184,249.3386412,184.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,7/1/1942,7/31/1942,159,159,215.4611084,159.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,8/1/1942,8/31/1942,143,143,193.7794875,143.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,9/1/1942,9/31/1942,137,137,185.6488796,137.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,10/1/1942,10/31/1942,181,181,245.2733373,181.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,11/1/1942,11/30/1942,"1,256","1,256",1702.007247,1256.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,12/1/1942,12/31/1942,"1,140","1,140",1544.815494,1140.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/130
+United States,,1/1/1943,1/31/1943,"1,227","1,227",1662.709309,1227.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/131
+United States,,2/1/1943,2/28/1943,"1,425","1,425",1931.019368,1425.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/132
+United States,,3/1/1943,3/31/1943,"1,079","1,079",1462.154314,1079.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/133
+United States,,4/1/1943,4/30/1943,"1,342","1,342",1818.545959,1342.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/134
+United States,,5/1/1943,5/31/1943,"1,560","1,560",2113.958045,1560.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/135
+United States,,6/1/1943,6/30/1943,731,731,990.5790583,731.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/136
+United States,,7/1/1943,7/31/1943,"3,141","3,141",4256.373218,3141.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/137
+United States,,8/1/1943,8/31/1943,"2,150","2,150",2913.467819,2150.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/138
+United States,,9/1/1943,9/30/1943,"1,678","1,678",2273.86,1678.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/139
+United States,,10/1/1943,10/31/1943,"2,033","2,033",2754.920965,2033.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/140
+United States,,11/1/1943,11/30/1943,"3,738","3,738",5065.3687,3738.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/141
+United States,,12/1/1943,12/31/1943,"2,488","2,488",3371.492062,2488.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/142
+United States,,1/1/1944,1/31/1944,"4,079","4,079",5527.458247,4079.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/143
+United States,,2/1/1944,2/29/1944,"4,992","4,992",6764.665744,4992.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/144
+United States,,3/1/1944,3/31/1944,"3,781","3,781",5123.638057,3781.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/145
+United States,,4/1/1944,4/30/1944,"4,363","4,363",5912.30702,4363.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/146
+United States,,5/1/1944,5/31/1944,"5,994","5,994",8122.477258,5994.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/147
+United States,,6/1/1944,6/30/1944,"14,839","14,839",20108.34835,14839.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/148
+United States,,7/1/1944,7/31/1944,"16,806","16,806",22773.83263,16806.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/149
+United States,,8/1/1944,8/31/1944,"12,442","12,442",16860.17051,12442.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/150
+United States,,9/1/1944,9/30/1944,"12,816","12,816",17366.9784,12816.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/151
+United States,,10/1/1944,10/31/1944,"11,844","11,844",16049.81993,11844.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/152
+United States,,11/1/1944,11/30/1944,"15,825","15,825",21444.47825,15825.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/153
+United States,,12/1/1944,12/31/1944,"18,389","18,389",24918.95801,18389.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/154
+United States,,1/1/1945,1/31/1945,"15,424","15,424",20901.08262,15424.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/155
+United States,,2/1/1945,2/28/1945,"12,724","12,724",17242.30908,12724.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/156
+United States,,3/1/1945,3/31/1945,"15,467","15,467",20959.35198,15467.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/157
+United States,,4/1/1945,4/30/1945,"16,390","16,390",22210.11049,16390.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/158
+United States,,5/1/1945,5/31/1945,"4,898","4,898",6637.286221,4898.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/159
+United States,,6/1/1945,6/30/1945,"2,124","2,124",2878.235184,2124.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/160
+United States,,7/1/1945,7/31/1945,588,588,796.7995708,588.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/161
+United States,,8/1/1945,8/31/1945,338,338,458.0242431,338.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/162
+United States,,9/1/1945,9/30/1945,17,17,23.03672229,17.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/163
+United States,,10/1/1945,10/31/1945,9,9,12.1959118,9.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/164
+United States,,11/1/1945,11/30/1945,13,13,17.61631704,13.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/165
+United States,,12/1/1945,12/31/1945,5,5,6.775506555,5.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/166
+United States,,1/1/1946,1/31/1946,1,1,1.355101311,1.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/167
+United States,,2/1/1946,2/28/1946,0,0,0,0.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/168
+United States,,3/1/1946,3/31/1946,0,0,0,0.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/169
+United States,,4/1/1946,4/30/1946,1,1,1.355101311,1.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/170
+United States,,5/1/1946,5/31/1946,1,1,1.355101311,1.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/171
+United States,,6/1/1946,6/30/1946,1,1,1.355101311,1.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/172
+United States,,7/1/1946,7/31/1946,0,0,0,0.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/173
+United States,,8/1/1946,8/31/1946,3,3,4.065303933,3.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/174
+United States,,9/1/1946,9/30/1946,0,0,0,0.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/175
+United States,,10/1/1946,10/31/1946,0,0,0,0.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/176
+United States,,11/1/1946,11/30/1946,0,0,0,0.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/177
+United States,,12/1/1946,12/31/1946,0,0,0,0.00,,0,,,army,"multiplied to make 318,274",http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/178
+Albania,,9/1/1939,8/31/1945,"30,000","30,000",,30000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Australia,,9/1/1939,8/31/1945,"39,800","39,800",,39800.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Australia,,9/1/1939,8/31/1945,700,700,,700.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Austria,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Austria,,9/1/1939,8/31/1945,"62,500","62,500",,62500.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Belgium,,9/1/1939,8/31/1945,"12,100","12,100",,12100.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Belgium,,9/1/1939,8/31/1945,"48,900","48,900",,48900.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Brazil,,9/1/1939,8/31/1945,"1,000","1,000",,1000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Brazil,,9/1/1939,8/31/1945,"1,000","1,000",,1000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Bulgaria,,9/1/1939,8/31/1945,"22,000","22,000",,22000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Bulgaria,,9/1/1939,8/31/1945,"3,000","3,000",,3000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Burma,,9/1/1939,8/31/1945,"22,000","22,000",,22000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Burma,,9/1/1939,8/31/1945,"250,000","250,000",,250000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Canada,,9/1/1939,8/31/1945,"45,400","45,400",,45400.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Canada,,9/1/1939,8/31/1945,0,0,,0.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+China,,9/1/1939,8/31/1945,"3,000,000","4,000,000",,3500000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+China,,9/1/1939,8/31/1945,"7,000,000","16,000,000",,11500000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Cuba,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Cuba,,9/1/1939,8/31/1945,100,100,,100.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Czechoslovakia,,9/1/1939,8/31/1945,"25,000","25,000",,25000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Czechoslovakia,,9/1/1939,8/31/1945,"222,350","222,350",,222350.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Denmark,,9/1/1939,8/31/1945,"2,100","2,100",,2100.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Denmark,,9/1/1939,8/31/1945,"1,012","1,012",,1012.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Dutch East Indies,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Dutch East Indies,,9/1/1939,8/31/1945,"3,000,000","4,000,000",,3500000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Estonia,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Estonia,,9/1/1939,8/31/1945,"48,250","48,250",,48250.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Ethiopia,,9/1/1939,8/31/1945,"5,000","5,000",,5000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Ethiopia,,9/1/1939,8/31/1945,"95,000","95,000",,95000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Finland,,9/1/1939,8/31/1945,"95,000","95,000",,95000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Finland,,9/1/1939,8/31/1945,"2,000","2,000",,2000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+France,,6/23/1940,8/31/1945,132600,132600,,132600.00,,0,,,,wiki-buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+France,,9/1/1939,8/31/1945,"274,000","274,000",,274000.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+French Indochina,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+French Indochina,,9/1/1939,8/31/1945,"1,000,000","1,500,000",,1250000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Germany,,9/1/1939,8/31/1945,"1,365,000","2,958,000",,2161500.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Greece,,9/1/1939,8/31/1945,"20,000","35,100",,27550.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Greece,,9/1/1939,8/31/1945,"237,000","237,000",,237000.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Hungary,,6/22/1941,8/31/1945,"300,000","300,000",,300000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Iceland,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Iceland,,9/1/1939,8/31/1945,200,200,,200.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+India,,9/1/1939,8/31/1945,"87,000","87,000",,87000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+India,,9/1/1939,8/31/1945,"1,500,000","2,500,000",,2000000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Iran,,9/1/1939,8/31/1945,200,200,,200.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Iran,,9/1/1939,8/31/1945,0,0,,0.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Iraq,,9/1/1939,8/31/1945,500,500,,500.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Iraq,,9/1/1939,8/31/1945,0,0,,0.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Ireland,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Ireland,,9/1/1939,8/31/1945,200,200,,200.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Italy,,1/1/1940,12/31/1940,"12,776","12,776",13217,12776.00,,0,,,,"total from wiki, yearl dist from dem res",http://en.wikipedia.org/wiki/World_War_II_casualties and http://www.demographic-research.org/volumes/vol13/15/13-15.pdf
+Italy,,1/1/1941,12/31/1941,"40,929","40,929",42342,40929.00,,0,,,,"total from wiki, yearl dist from dem res",http://en.wikipedia.org/wiki/World_War_II_casualties and http://www.demographic-research.org/volumes/vol13/15/13-15.pdf
+Italy,,1/1/1942,12/31/1942,"63,999","63,999",66209,63999.00,,0,,,,"total from wiki, yearl dist from dem res",http://en.wikipedia.org/wiki/World_War_II_casualties and http://www.demographic-research.org/volumes/vol13/15/13-15.pdf
+Italy,,1/1/1943,12/31/1943,"106,989","106,989",110683,106989.00,,0,,,,"total from wiki, yearl dist from dem res",http://en.wikipedia.org/wiki/World_War_II_casualties and http://www.demographic-research.org/volumes/vol13/15/13-15.pdf
+Italy,,1/1/1944,12/31/1944,"41,757","41,757",43199,41757.00,,0,,,,"total from wiki, yearl dist from dem res",http://en.wikipedia.org/wiki/World_War_II_casualties and http://www.demographic-research.org/volumes/vol13/15/13-15.pdf
+Italy,,1/1/1945,8/31/1945,"24,890","24,890",25749,24890.00,,0,,,,"total from wiki, yearl dist from dem res",http://en.wikipedia.org/wiki/World_War_II_casualties and http://www.demographic-research.org/volumes/vol13/15/13-15.pdf
+Italy,,9/1/1939,8/31/1945,"145,200","145,200",,145200.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Japan,,9/1/1939,8/31/1945,"2,120,000","2,120,000",,2120000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Japan,,9/1/1939,8/31/1945,"500,000","278,510",,389255.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Korea,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Korea,,9/1/1939,8/31/1945,"378,000","483,000",,430500.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Latvia,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Latvia,,9/1/1939,8/31/1945,"159,000","159,000",,159000.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Lithuania,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Lithuania,,9/1/1939,8/31/1945,"213,500","213,500",,213500.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Luxembourg,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Luxembourg,,9/1/1939,8/31/1945,500,500,,500.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Malaya,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Malaya,,9/1/1939,8/31/1945,"100,000","100,000",,100000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Malta,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Malta,,9/1/1939,8/31/1945,"1,500","1,500",,1500.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Mexico,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Mexico,,9/1/1939,8/31/1945,100,100,,100.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Mongolia,,9/1/1939,8/31/1945,300,300,,300.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Mongolia,,9/1/1939,8/31/1945,0,0,,0.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Nauru (Australian),,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Nauru (Australian),,9/1/1939,8/31/1945,500,500,,500.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Netherlands,,9/1/1939,8/31/1945,"17,000","17,000",,17000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Netherlands,,9/1/1939,8/31/1945,"181,500","181,500",,181500.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Newfoundland,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Newfoundland,,9/1/1939,8/31/1945,100,100,,100.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+New Zealand,,9/1/1939,8/31/1945,"11,900","11,900",,11900.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+New Zealand,,9/1/1939,8/31/1945,0,0,,0.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Norway,,9/1/1939,8/31/1945,"3,000","3,000",,3000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Norway,,9/1/1939,8/31/1945,"5,700","5,700",,5700.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Papua and New Guinea (Australian),,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Papua and New Guinea (Australian),,9/1/1939,8/31/1945,"15,000","15,000",,15000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Philippines,,9/1/1939,8/31/1945,"57,000","57,000",,57000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Philippines,,9/1/1939,8/31/1945,"500,000","1,000,000",,750000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Poland,,10/7/1939,8/31/1945,"174,000","174,000",,174000.00,,0,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Poland,,9/1/1939,8/31/1945,"2,630,000","2,630,000",,2630000.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Portuguese Timor,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Portuguese Timor,,9/1/1939,8/31/1945,"40,000","70,000",,55000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Romania,,6/22/1941,8/31/1945,"300,000","300,000",,300000.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Romania,,9/1/1939,8/31/1945,"296,000","296,000",,296000.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Ruanda-Urundi (Belgian),,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Ruanda-Urundi (Belgian),,9/1/1939,8/31/1945,0,"300,000",,150000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Singapore,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Singapore,,9/1/1939,8/31/1945,"50,000","50,000",,50000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+South Africa,,9/1/1939,8/31/1945,"11,900","11,900",,11900.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+South Africa,,9/1/1939,8/31/1945,0,0,,0.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+South Pacific Mandate (Japanese),,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+South Pacific Mandate (Japanese),,9/1/1939,8/31/1945,"57,000","57,000",,7000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Soviet Union,,9/1/1939,8/31/1945,"9,000,000","9,000,000",,9000000.00,,1,,,,need to decide on numbers,http://en.wikipedia.org/wiki/World_War_II_casualties
+Sweden,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Sweden,,9/1/1939,8/31/1945,600,600,,600.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Switzerland,,9/1/1939,8/31/1945,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Switzerland,,9/1/1939,8/31/1945,100,100,,100.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Thailand,,9/1/1939,8/31/1945,"5,600","5,600",,5600.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Thailand,,9/1/1939,8/31/1945,"2,000","2,000",,2000.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Turkey,,9/1/1939,8/31/1945,200,200,,200.00,,0,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Turkey,,9/1/1939,8/31/1945,0,0,,0.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+United Kingdom,,4/1/1940,8/31/1945,"16,591","16,591",,16591.00,,1,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Yugoslavia,,6/22/1941,8/31/1945,"436,000","436,000",,436000.00,,0,,,,wiki buffer,http://en.wikipedia.org/wiki/World_War_II_casualties
+Yugoslavia,,6/22/1941,8/31/1945,"520,500","520,500",,520500.00,,1,,,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Germany,,9/1/1939,9/30/1939,15000,15000,,15000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,10/1/1939,10/31/1939,3000,3000,,3000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,11/1/1939,11/30/1939,1000,1000,,1000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,12/1/1939,12/31/1939,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,1/1/1940,1/31/1940,2000,2000,,2000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,2/1/1940,2/29/1940,0,0,,0.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,3/1/1940,3/31/1940,5000,5000,,5000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,4/1/1940,4/30/1940,3000,3000,,3000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,5/1/1940,5/31/1940,21000,21000,,21000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,6/1/1940,6/30/1940,29000,29000,,29000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,7/1/1940,7/31/1940,7000,7000,,7000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,8/1/1940,8/31/1940,4000,4000,,4000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,9/1/1940,9/30/1940,4000,4000,,4000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,10/1/1940,10/31/1940,5033,5033,,5033.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,11/1/1940,11/30/1940,1000,1000,,1000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,12/1/1940,12/31/1940,2000,2000,,2000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,1/1/1941,1/31/1941,10000,10000,,10000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,2/1/1941,2/28/1941,1000,1000,,1000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,3/1/1941,3/31/1941,4000,4000,,4000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,4/1/1941,4/30/1941,4000,4000,,4000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,5/1/1941,5/31/1941,13000,13000,,13000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,6/1/1941,6/30/1941,29000,29000,,29000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,7/1/1941,7/31/1941,67132,67132,,67132.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,8/1/1941,8/31/1941,51066,51066,,51066.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,9/1/1941,9/30/1941,53033,53033,,53033.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,10/1/1941,10/31/1941,44099,44099,,44099.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,11/1/1941,11/30/1941,38000,38000,,38000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,12/1/1941,12/31/1941,42198,42198,,42198.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,1/1/1942,1/31/1942,53165,53165,,53165.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,2/1/1942,2/28/1942,52099,52099,,52099.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,3/1/1942,3/31/1942,46132,46132,,46132.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,4/1/1942,4/30/1942,24066,24066,,24066.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,5/1/1942,5/31/1942,44099,44099,,44099.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,6/1/1942,6/30/1942,34033,34033,,34033.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,7/1/1942,7/31/1942,46099,46099,,46099.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,8/1/1942,8/31/1942,74231,74231,,74231.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,9/1/1942,9/30/1942,46033,46033,,46033.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,10/1/1942,10/31/1942,30000,30000,,30000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,11/1/1942,11/30/1942,38231,38231,,38231.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,12/1/1942,12/31/1942,83792,83792,,83792.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,1/1/1943,1/31/1943,185376,185376,,185376.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,2/1/1943,2/28/1943,74363,74363,,74363.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,3/1/1943,3/31/1943,59099,59099,,59099.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,4/1/1943,4/30/1943,21066,21066,,21066.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,5/1/1943,5/31/1943,31099,31099,,31099.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,6/1/1943,6/30/1943,21066,21066,,21066.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,7/1/1943,7/31/1943,79231,79231,,79231.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,8/1/1943,8/31/1943,66198,66198,,66198.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,9/1/1943,9/30/1943,69495,69495,,69495.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,10/1/1943,10/31/1943,61330,61330,,61330.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,11/1/1943,11/30/1943,77396,77396,,77396.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,12/1/1943,12/31/1943,66330,66330,,66330.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,1/1/1944,1/31/1944,81330,81330,,81330.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,2/1/1944,2/29/1944,91495,91495,,91495.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,3/1/1944,3/31/1944,112759,112759,,112759.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,4/1/1944,4/30/1944,92363,92363,,92363.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,5/1/1944,5/31/1944,78495,78495,,78495.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,6/1/1944,6/30/1944,182178,182178,,182178.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,7/1/1944,7/31/1944,215013,215013,,215013.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,8/1/1944,8/31/1944,348960,348960,,348960.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,9/1/1944,9/30/1944,151957,151957,,151957.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,10/1/1944,10/31/1944,184089,184089,,184089.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,11/1/1944,11/30/1944,103561,103561,,103561.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,12/1/1944,12/31/1944,159386,159386,,159386.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,1/1/1945,1/31/1945,451742,451742,,451742.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,2/1/1945,2/28/1945,294772,294772,,294772.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,3/1/1945,3/31/1945,284442,284442,,284442.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,4/1/1945,4/30/1945,281848,281848,,281848.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,5/1/1945,5/31/1945,94528,94528,,94528.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,6/1/1945,6/30/1945,20066,20066,,20066.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,7/1/1945,7/31/1945,13000,13000,,13000.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Germany,,8/1/1945,8/31/1945,27099,27099,,27099.00,,0,,,,,http://en.wikipedia.org/wiki/German_casualties_in_World_War_II
+Soviet Union,,7/1/1941,9/30/1941,1916709,1916709,,1916709.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,10/1/1941,12/31/1941,907196,907196,,907196.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,1/1/1942,3/31/1942,607784,607784,,607784.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,4/1/1942,6/30/1942,758608,758608,,758608.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,7/1/1942,9/30/1942,1102046,1102046,,1102046.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,10/1/1942,12/31/1942,463957,463957,,463957.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,1/1/1943,3/31/1943,654043,654043,,654043.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,4/1/1943,6/30/1943,172714,172714,,172714.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,7/1/1943,9/30/1943,723470,723470,,723470.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,10/1/1943,12/31/1943,530960,530960,,530960.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,1/1/1944,3/31/1944,513685,513685,,513685.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,4/1/1944,6/30/1944,309832,309832,,309832.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,7/1/1944,9/30/1944,459711,459711,,459711.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,10/1/1944,12/31/1944,304274,304274,,304274.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,1/1/1945,3/31/1945,501769,501769,,501769.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+Soviet Union,,4/1/1945,6/30/1945,218966,218966,,218966.00,,0,,,,"includes returned pow, multiplied by .9",http://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union
+United States,,12/1/1941,12/31/1941,2155,2155,4715,2155.00,,0,,,"navy, pearl harbor","multiplied to make 62,614",http://www.history.navy.mil/library/online/ww2_statistics.htm
+United States,,1/1/1942,12/31/1942,2809,2809,6146,2809.00,,0,,,navy,"multiplied to make 62,614",http://www.history.navy.mil/library/online/ww2_statistics.htm
+United States,,1/1/1943,12/31/1943,4524,4524,9898,4524.00,,0,,,navy,"multiplied to make 62,614",http://www.history.navy.mil/library/online/ww2_statistics.htm
+United States,,1/1/1944,12/31/1944,7685,7685,16814,7685.00,,0,,,navy,"multiplied to make 62,614",http://www.history.navy.mil/library/online/ww2_statistics.htm
+United States,,1/1/1945,8/31/1945,11446,11446,25042,11446.00,,0,,,navy,"multiplied to make 62,614",http://www.history.navy.mil/library/online/ww2_statistics.htm
+United States,,12/1/1941,8/31/1945,24511,24511,,24511.00,,,,,marines,,http://en.wikipedia.org/wiki/World_War_II_casualties#endnote_US
+Poland,,9/1/1939,10/6/1939,"66,000","66,000",,66000.00,,0,,invasion-germany,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+France,,5/10/1940,6/22/1940,55000,85000,85000,70000.00,,0,,invasion-germany,,Battle of France,http://en.wikipedia.org/wiki/Battle_of_France
+Yugoslavia,,4/6/1941,4/18/1941,"10,000","10,000",,10000.00,,0,,invasion-germany,,,http://en.wikipedia.org/wiki/World_War_II_casualties
+Germany,"Anklam, Germany",4/28/1945,4/28/1945,370,380,,375.00,1,1,1,air-firebomb,LUFTW,,http://en.wikipedia.org/wiki/Battle_of_Berlin_(air)
+Germany,"Bremen, Germany",4/21/1945,4/21/1945,61,61,,61.00,1,1,1,air-firebomb,,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Ingolstadt, Germany",4/20/1945,4/20/1945,104,150,,127.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Ingolstadt
+Germany,"Oldenburg, Germany",4/14/1945,4/14/1945,15,15,,15.00,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Oldenburg_(Oldenburg)
+Germany,"Nuremberg, Germany",4/10/1945,4/10/1945,74,74,,74.00,1,1,1,air-firebomb,RAF/USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Leipzig, Germany",4/9/1945,4/16/1945,700,790,,745.00,1,1,1,air-firebomb,RAF/USAAF,,http://de.wikipedia.org/wiki/Operation_Haddock
+Germany,"Celle, Germany",4/7/1945,4/7/1945,,,,0.00,1,1,1,air-firebomb,,,
+Germany,"Gottingen, Germany",4/6/1945,4/6/1945,30,30,,30.00,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_G%C3%B6ttingen
+Germany,"Leipzig, Germany",4/5/1945,4/5/1945,733,733,,733.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Operation_Haddock
+Germany,"Ingolstadt, Germany",4/4/1945,4/4/1945,52,52,,52.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Nuremberg, Germany",4/4/1945,4/4/1945,197,197,,197.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Hameln, Germany",3/27/1945,3/27/1945,110,110,,110.00,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hameln
+Germany,"Paderborn, Germany",3/26/1945,3/26/1945,900,900,,900.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Paderborn
+Germany,"Wesel, Germany",3/22/1945,3/22/1945,36,36,,36.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Wesel
+Germany,"Hildesheim, Germany",3/21/1945,3/21/1945,"1,500","1,500",,1500.00,1,1,1,air-firebomb,RAF/RCAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hildesheim
+Germany,"Bremen, Germany",3/21/1945,3/29/1945,147,147,,147.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Hanau, Germany",3/18/1945,3/18/1945,"2,300","2,500",,2400.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriff_auf_Hanau_am_19._M%C3%A4rz_1945#Sch.C3.A4den_und_Opfer
+Germany,"Nuremberg, Germany",3/16/1945,3/16/1945,517,517,,517.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Hameln, Germany",3/14/1945,3/14/1945,177,177,,177.00,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hameln
+Germany,"Wuppertal, Germany",3/13/1945,3/13/1945,500,500,,500.00,1,1,1,air-firebomb,,,
+Germany,"Vienna, Germany",3/12/1945,3/26/1945,"1,547","1,547",,1547.00,1,1,1,air-firebomb,,,http://www.wien-vienna.at/geschichte.php?ID=158
+Germany,"Swinemunde, Germany",3/12/1945,3/12/1945,"5,000","23,000",,14000.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriff_auf_Swinem%C3%BCnde
+Germany,"Kassel, Germany",3/8/1945,,,,,0.00,1,1,1,air-firebomb,RAF,,
+Germany,"Hildesheim, Germany",3/3/1945,3/31/1945,"1,500","1,600",,1550.00,1,1,1,air-firebomb,,,
+Germany,"Mannheim, Germany",3/2/1945,3/2/1945,,,,0.00,1,1,1,air-firebomb,RAF,,http://en.wikipedia.org/wiki/Bombing_of_Mannheim_in_World_War_II
+Germany,"Ulm, Germany",3/1/1945,3/1/1945,479,479,,479.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Ulm
+Germany,"Ingolstadt, Germany",3/1/1945,3/1/1945,197,197,,197.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Mainz, Germany",2/27/1945,2/27/1945,"1,150","1,250",,1200.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Geschichte_der_Stadt_Mainz#Mainz_im_Zweiten_Weltkrieg
+Germany,"Leipzig, Germany",2/27/1945,2/27/1945,677,677,,677.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Operation_Haddock
+Germany,"Bremen, Germany",2/24/1945,2/24/1945,56,56,,56.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Pforzheim, Germany",2/23/1945,2/23/1945,"17,600","20,277",,18938.50,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriff_auf_Pforzheim_am_23._Februar_1945
+Germany,"Meiningen, Germany",2/23/1945,2/23/1945,208,208,,208.00,1,1,1,air-firebomb,USAAF,Clarion,http://de.wikipedia.org/wiki/Luftangriff_auf_Meiningen_am_23._Februar_1945
+Germany,"Kitzingen, Germany",2/23/1945,2/23/1945,650,750,,700.00,1,1,1,air-firebomb,USAAF,Clarion,http://de.wikipedia.org/wiki/Kitzingen
+Germany,"Ulm, Germany",2/22/1945,2/22/1945,206,206,,206.00,1,1,1,air-firebomb,RAF,,
+Germany,"Hildesheim, Germany",2/22/1945,2/22/1945,230,270,,250.00,1,1,1,air-firebomb,,Clarion,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hildesheim
+Germany,"Ansbach, Germany",2/22/1945,2/23/1945,445,445,,445.00,1,1,1,air-firebomb,,Clarion,http://de.wikipedia.org/wiki/Operation_Clarion
+Germany,"Plauen, Germany",2/22/1945,2/23/1945,387,387,,387.00,1,1,1,air-firebomb,,Clarion,http://de.wikipedia.org/wiki/Operation_Clarion
+Germany,"Crailsheim, Germany",2/22/1945,2/23/1945,61,61,,61.00,1,1,1,air-firebomb,,Clarion,http://de.wikipedia.org/wiki/Operation_Clarion
+Germany,"Neumarkt, Germany",2/22/1945,2/23/1945,450,550,,500.00,1,1,1,air-firebomb,,Clarion,http://de.wikipedia.org/wiki/Operation_Clarion
+Germany,"Treuchtlingen, Germany",2/22/1945,2/23/1945,586,586,,586.00,1,1,1,air-firebomb,,Clarion,http://de.wikipedia.org/wiki/Operation_Clarion
+Germany,"Weimar, Germany",2/22/1945,2/23/1945,,,,0.00,1,1,1,air-firebomb,,Clarion,http://de.wikipedia.org/wiki/Operation_Clarion
+Germany,"Halberstadt, Germany",2/22/1945,2/23/1945,172,172,,172.00,1,1,1,air-firebomb,,Clarion,http://de.wikipedia.org/wiki/Operation_Clarion
+Germany,"Nuremberg, Germany",2/20/1945,2/21/1945,"1,356","1,356",,1356.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Bremen, Germany",2/17/1945,2/17/1945,28,28,,28.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Dresden, Germany",2/13/1945,2/15/1945,"22,700","25,000",,23850.00,1,1,1,air-firebomb,RAF/USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Dresden
+Germany,"Stuttgart, Germany",2/12/1945,2/12/1945,68,68,,68.00,1,1,1,air-firebomb,RAF/USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Gottingen, Germany",2/9/1945,2/9/1945,27,27,,27.00,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_G%C3%B6ttingen
+Germany,"Paderborn, Germany",1/17/1945,1/17/1945,,,,0.00,1,1,1,air-firebomb,,,
+Germany,"Magdeburg, Germany",1/16/1945,1/16/1945,"2,000","2,500",,2250.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriff_auf_Magdeburg
+Germany,"Ingolstadt, Germany",1/15/1945,1/15/1945,50,50,,50.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Ingolstadt
+Germany,"Munich, Germany",1/8/1945,1/8/1945,505,505,,505.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_M%C3%BCnchen
+Germany,"Nuremberg, Germany",1/2/1945,1/2/1945,"1,794","1,794",,1794.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Gottingen, Germany",1/1/1945,1/1/1945,47,47,,47.00,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_G%C3%B6ttingen
+Germany,"Wuppertal, Germany",12/31/1944,12/31/1944,,,,0.00,1,1,1,air-firebomb,RAF,,
+Germany,"Koblenz, Germany",12/28/1944,12/29/1944,65,65,,65.00,1,1,1,air-firebomb,USAAF/RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Koblenz
+Germany,"Koblenz, Germany",12/22/1944,12/22/1944,154,154,,154.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Koblenz
+Germany,"Munich, Germany",12/17/1944,12/17/1944,562,562,,562.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_M%C3%BCnchen
+Germany,"Ulm, Germany",12/17/1944,12/17/1944,707,707,,707.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Ulm
+Germany,"Duisburg, Germany",12/17/1944,12/18/1944,,,,0.00,1,1,1,air-firebomb,RAF,,http://www.raf.mod.uk/bombercommand/dec44.html
+Germany,"Munich, Germany",12/17/1944,12/18/1944,,,,0.00,1,1,1,air-firebomb,RAF,,http://www.raf.mod.uk/bombercommand/dec44.html
+Germany,"Essen, Germany",12/12/1944,12/13/1944,,,,0.00,1,1,1,air-firebomb,RAF,,http://www.raf.mod.uk/bombercommand/dec44.html
+Germany,"Bebra, Germany",12/4/1944,12/4/1944,54,83,,68.50,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriff_auf_Bebra_am_4._Dezember_1944
+Germany,"Karlruhe, Germany",12/4/1944,12/5/1944,,,,0.00,1,1,1,air-firebomb,RAF,,http://www.raf.mod.uk/bombercommand/dec44.html
+Germany,"Heilbronn, Germany",12/4/1944,12/4/1944,"6,500","6,500",,6500.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Heilbronn
+Germany,"Hagen, Germany",12/2/1944,12/3/1944,,,,0.00,1,1,1,air-firebomb,RAF,,http://www.raf.mod.uk/bombercommand/dec44.html
+Germany,"Freiburg iB, Germany",11/27/1944,11/27/1944,"2,800","2,900",,2850.00,1,1,1,air-firebomb,RAF,Tigerfish,http://de.wikipedia.org/wiki/Operation_Tigerfish
+Germany,"Nuremberg, Germany",11/25/1944,11/26/1944,60,70,,65.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Koblenz, Germany",11/21/1944,11/21/1944,64,64,,64.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Koblenz
+Germany,"Duren, Germany",11/16/1944,11/16/1944,"3,106","3,106",,3106.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_D%C3%BCren
+Germany,"Koblenz, Germany",11/6/1944,11/6/1944,109,109,,109.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Koblenz
+Germany,"Bochum, Germany",11/4/1944,11/4/1944,994,"1,000",,997.00,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_das_Ruhrgebiet
+Germany,"Hannover, Germany",10/26/1944,10/26/1944,100,201,,150.50,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Essen, Germany",10/23/1944,10/25/1944,"1,163","1,200",,1181.50,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_das_Ruhrgebiet
+Germany,"Nuremberg, Germany",10/19/1944,10/20/1944,237,237,,237.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Stuttgart, Germany",10/19/1944,10/19/1944,338,338,,338.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Salzburg, Germany",10/16/1944,10/16/1944,245,245,,245.00,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Salzburg
+Germany,"Cologne, Germany",10/15/1944,10/15/1944,,,,0.00,1,1,1,air-firebomb,USAAF,Hurricane,
+Germany,"Braunschweig, Germany",10/14/1944,10/15/1944,640,640,,640.00,1,1,1,air-firebomb,RAF,Hurricane,
+Germany,"Duisburg, Germany",10/13/1944,10/14/1944,"2,500","2,600",,2550.00,1,1,1,air-firebomb,RAF,Hurricane,http://de.wikipedia.org/wiki/Operation_Hurricane_(1944)
+Germany,"Bremen, Germany",10/12/1944,10/12/1944,82,82,,82.00,1,1,1,air-firebomb,USAAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Koblenz, Germany",10/9/1944,10/9/1944,71,71,,71.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Bremen, Germany",10/6/1944,10/6/1944,66,66,,66.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Stralsund, Germany",10/6/1944,10/6/1944,800,800,,800.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Bombenangriff_auf_Stralsund_am_6._Oktober_1944
+Germany,"Nuremberg, Germany",10/3/1944,10/3/1944,353,353,,353.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Koblenz, Germany",9/25/1944,9/25/1944,109,109,,109.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Koblenz
+Germany,"Koblenz, Germany",9/19/1944,9/19/1944,144,144,,144.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Stuttgart, Germany",9/12/1944,9/12/1944,957,957,,957.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Darmstadt, Germany",9/11/1944,9/12/1944,"11,000","12,000",,11500.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriff_auf_Darmstadt
+Germany,"Heilbronn, Germany",9/10/1944,9/10/1944,281,281,,281.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Heilbronn
+Germany,"Bremen, Germany",8/30/1944,8/30/1944,34,34,,34.00,1,1,1,air-firebomb,USAAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Konigsberg, Germany",8/29/1944,8/29/1944,,,,0.00,1,1,1,air-firebomb,RAF,,
+Germany,"Lubeck, Germany",8/25/1944,8/25/1944,110,110,,110.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Lubeck, Germany",3/28/1942,3/29/1942,301,"1,000",,650.50,,,1,air-firebomb,RAF,,http://ww2db.com/battle_spec.php?battle_id=55
+Germany,"Anklam, Germany",8/25/1944,8/25/1944,,,,0.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Anklam
+Germany,"Bremen, Germany",8/18/1944,8/19/1944,"1,053","1,053",,1053.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Bremen#Luftangriffe
+Germany,"Anklam, Germany",8/4/1944,8/4/1944,26,26,,26.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Anklam
+Germany,"Hildesheim, Germany",7/29/1944,7/29/1944,34,34,,34.00,1,1,1,air-firebomb,,,
+Germany,"Bremen, Germany",7/29/1944,7/29/1944,167,167,,167.00,1,1,1,air-firebomb,USAAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Stuttgart, Germany",7/25/1944,7/25/1944,884,884,,884.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Duren, Germany",7/19/1944,7/21/1944,135,135,,135.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_D%C3%BCren
+Germany,"Koblenz, Germany",7/19/1944,7/19/1944,74,74,,74.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Koblenz
+Germany,"Hameln, Germany",7/7/1944,7/7/1944,19,20,,19.50,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hameln
+Germany,"Duren, Germany",7/6/1944,7/6/1944,23,23,,23.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_D%C3%BCren
+Germany,"Bremen, Germany",6/24/1944,6/24/1944,115,115,,115.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Hannover, Germany",6/18/1944,6/18/1944,31,31,,31.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Munich, Germany",4/24/1944,4/25/1944,136,136,,136.00,1,1,1,air-firebomb,,,http://de.wikipedia.org/wiki/Luftangriffe_auf_M%C3%BCnchen
+Germany,"Dusseldorf, Germany",4/22/1944,4/23/1944,748,748,,748.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_D%C3%BCsseldorf
+Germany,"Koblenz, Germany",4/22/1944,4/22/1944,115,115,,115.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Koblenz, Germany",4/19/1944,4/19/1944,21,21,,21.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Koblenz
+Germany,"Nuremberg, Germany",4/10/1944,4/10/1944,82,82,,82.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Nuremberg, Germany",3/31/1944,3/31/1944,74,74,,74.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Essen, Germany",3/26/1944,3/26/1944,,,,0.00,1,1,1,air-firebomb,,,
+Germany,"Berlin, Germany",3/24/1944,3/25/1944,,,,0.00,1,1,1,air-firebomb,RAF,,
+Germany,"Frankfurt aM, Germany",3/18/1944,3/19/1944,421,421,,421.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Frankfurt_am_Main
+Germany,"Stuttgart, Germany",3/15/1944,3/16/1944,88,88,,88.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Berlin, Germany",3/8/1944,3/8/1944,,,,0.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Stuttgart, Germany",3/2/1944,3/2/1944,121,121,,121.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Augsburg, Germany",2/25/1944,2/26/1944,730,730,,730.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Augsburg
+Germany,"Nuremberg, Germany",2/25/1944,2/25/1944,138,138,,138.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Schweinfurt, Germany",2/24/1944,2/24/1944,,,,0.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Braunschweig, Germany",2/21/1944,2/21/1944,,,,0.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Stuttgart, Germany",2/21/1944,2/22/1944,159,159,,159.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Leipzig, Germany",2/20/1944,2/20/1944,970,970,,970.00,1,1,1,air-firebomb,USAAF/RAF,Big Week,http://de.wikipedia.org/wiki/Operation_Haddock
+Germany,"Berlin, Germany",2/15/1944,2/16/1944,"1,000","2,000",,1500.00,1,1,1,air-firebomb,RAF,Battle of Berlin,
+Germany,"Hannover, Germany",1/11/1944,1/11/1944,28,28,,28.00,1,1,1,air-firebomb,LUFTW(Acc),,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Bremen, Germany",12/13/1943,12/20/1943,185,185,,185.00,1,1,1,air-firebomb,USAAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Leipzig, Germany",12/4/1943,12/4/1943,"1,800","1,890",,1845.00,1,1,1,air-firebomb,RAF,Haddock,http://de.wikipedia.org/wiki/Operation_Haddock
+Germany,"Berlin, Germany",11/22/1943,11/23/1943,"2,000","3,000",,2500.00,1,1,1,air-firebomb,RAF,Battle of Berlin,http://www.saak.nl/battlefield%20tour/2008%20berlin/berlin%20history/berlin1943/berlin1943%20en.htm
+Germany,"Dusseldorf, Germany",11/3/1943,11/4/1943,622,622,,622.00,1,1,1,air-firebomb,RAF,,
+Germany,"Kassel, Germany",10/22/1943,10/23/1943,"10,000","11,000",,10500.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriff_auf_Kassel_am_22._Oktober_1943#Die_Folgen
+Germany,"Hannover, Germany",10/18/1943,10/18/1943,157,157,,157.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Hannover, Germany",10/9/1943,10/9/1943,"1,245","1,245",,1245.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Anklam, Germany",10/9/1943,10/9/1943,400,500,,450.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Anklam
+Germany,"Stuttgart, Germany",10/8/1943,10/8/1943,101,101,,101.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Bremen, Germany",10/8/1943,10/8/1943,132,132,,132.00,1,1,1,air-firebomb,USAAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Frankfurt aM, Germany",10/4/1943,10/4/1943,529,529,,529.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Frankfurt_am_Main
+Germany,"Hannover, Germany",9/27/1943,9/28/1943,196,196,,196.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Hannover, Germany",9/22/1943,9/23/1943,201,201,,201.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Stuttgart, Germany",9/6/1943,9/6/1943,107,107,,107.00,1,1,1,air-firebomb,USAAF,,
+Germany,"Mannheim, Germany",9/5/1943,9/6/1943,,,,0.00,1,1,1,air-firebomb,RAF,,
+Germany,"Berlin, Germany",8/23/1943,9/4/1943,,,,0.00,1,1,1,air-firebomb,,,
+Germany,"Vienna, Germany",8/13/1943,8/13/1943,181,181,,181.00,1,1,1,air-firebomb,USAAF,,http://www.wien-vienna.at/geschichte.php?ID=158
+Germany,"Nuremberg, Germany",8/10/1943,8/11/1943,585,585,,585.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Remscheid, Germany",7/30/1943,7/31/1943,"1,200","1,200",,1200.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_das_Ruhrgebiet
+Germany,"Hannover, Germany",7/26/1943,7/26/1943,273,273,,273.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Gelsenkirchen, Germany",7/25/1943,7/25/1943,,,,0.00,1,1,1,air-firebomb,RAF,,
+Germany,"Hamburg, Germany",7/24/1943,7/30/1943,"30,000","34,000",,32000.00,1,1,1,air-firebomb,RAF/USAAF,Gomorrah,http://de.wikipedia.org/wiki/Feuersturm_von_Hamburg
+Germany,"Cologne, Germany",6/28/1943,6/29/1943,"4,377","4,500",,4438.50,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_das_Ruhrgebiet
+Germany,"Elberfeld, Germany",6/24/1943,6/24/1943,"1,900","1,900",,1900.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Wuppertal
+Germany,"Marl, Germany",6/22/1943,6/22/1943,180,180,,180.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_das_Ruhrgebiet
+Germany,"Mulheim, Germany",6/22/1943,6/23/1943,,,,0.00,1,1,1,air-firebomb,RAF,,http://www.raf.mod.uk/bombercommand/jun43.html
+Germany,"Krefeld, Germany",6/21/1943,6/22/1943,,,,0.00,1,1,1,air-firebomb,RAF,,http://www.raf.mod.uk/bombercommand/jun43.html
+Germany,"Bochum, Germany",6/12/1943,6/13/1943,,,,0.00,1,1,1,air-firebomb,RAF,,http://www.raf.mod.uk/bombercommand/jun43.html
+Germany,"Dusseldorf, Germany",6/11/1943,6/12/1943,550,650,,600.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_D%C3%BCsseldorf
+Germany,"Wuppertal, Germany",5/29/1943,5/30/1943,"2,732","3,380",,3056.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Wuppertal
+Germany,"Ruhr Dams, Germany",5/17/1943,5/17/1943,"1,284","1,900",,1592.00,1,1,1,air-firebomb,RAF,Chastise,http://de.wikipedia.org/wiki/Luftangriffe_auf_das_Ruhrgebiet
+Germany,"Kiel, Germany",5/14/1943,5/14/1943,150,350,,250.00,1,1,1,air-firebomb,USAAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Kiel
+Germany,"Bochum, Germany",5/13/1943,5/14/1943,360,370,,365.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_das_Ruhrgebiet
+Germany,"Dortmund, Germany",5/4/1943,5/5/1943,690,690,,690.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_das_Ruhrgebiet
+Germany,"Stuttgart, Germany",4/15/1943,4/15/1943,619,619,,619.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Bremen, Germany",3/18/1943,3/18/1943,129,129,,129.00,1,1,1,air-firebomb,USAAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Stuttgart, Germany",3/11/1943,3/11/1943,112,112,,112.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Stuttgart
+Germany,"Nuremberg, Germany",3/8/1943,3/9/1943,343,343,,343.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Essen, Germany",3/5/1943,3/5/1943,457,461,,459.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_das_Ruhrgebiet
+Germany,"Nuremberg, Germany",2/25/1943,2/26/1943,27,27,,27.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Berlin, Germany",1/16/1943,3/30/1943,200,600,,400.00,1,1,1,air-firebomb,RAF,,
+Germany,"Munich, Germany",9/19/1942,9/19/1942,30,30,,30.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_M%C3%BCnchen
+Germany,"Bremen, Germany",9/14/1942,9/14/1942,67,67,,67.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Nuremberg, Germany",8/28/1942,8/29/1942,136,136,,136.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Mainz, Germany",8/12/1942,8/12/1942,161,161,,161.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Geschichte_der_Stadt_Mainz#Mainz_im_Zweiten_Weltkrieg
+Germany,"Bremen, Germany",6/30/1942,6/30/1942,8,8,,8.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Bremen, Germany",6/28/1942,6/28/1942,7,7,,7.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Bremen, Germany",6/26/1942,6/26/1942,85,85,,85.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Osnabruck, Germany",6/20/1942,6/20/1942,,,,0.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Osnabr%C3%BCck
+Germany,"Essen, Germany",6/1/1942,6/2/1942,,,,0.00,1,1,1,air-firebomb,RAF,,
+Germany,"Cologne, Germany",5/30/1942,5/31/1942,411,480,,445.50,1,1,1,air-firebomb,RAF,Millenium,
+Germany,"Heilbronn, Germany",5/7/1942,5/7/1942,7,7,,7.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Heilbronn
+Germany,"Augsburg, Germany",4/17/1942,4/17/1942,12,12,,12.00,1,1,1,air-firebomb,RAF,Margin,http://de.wikipedia.org/wiki/Luftangriffe_auf_Augsburg
+Germany,"Koblenz, Germany",4/6/1942,4/6/1942,12,12,,12.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Koblenz
+Germany,"Bremen, Germany",4/6/1942,4/6/1942,73,73,,73.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Bremen, Germany",2/11/1942,2/11/1942,7,7,,7.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Bremen, Germany",1/26/1942,1/26/1942,26,26,,26.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Nuremberg, Germany",10/12/1941,10/13/1941,9,9,,9.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_N%C3%BCrnberg
+Germany,"Frankfurt aM, Germany",9/12/1941,9/13/1941,8,8,,8.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Frankfurt_am_Main
+Germany,"Hameln, Germany",6/13/1941,6/13/1941,29,29,,29.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hameln
+Germany,"Bremen, Germany",4/17/1941,4/17/1941,20,20,,20.00,1,1,1,air-firebomb,RAF,,http://www.historic.de/Bremen_im_Krieg/Bombenangriffe/Bombenangriffe1942.htm
+Germany,"Hannover, Germany",2/10/1941,2/10/1941,101,101,,101.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Aachen, Germany",1/7/1941,7/31/1941,,,,0.00,1,1,1,air-firebomb,RAF,,
+Germany,"Hannover, Germany",5/19/1940,5/19/1940,19,19,,19.00,1,1,1,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Luftangriffe_auf_Hannover
+Germany,"Freiburg iB, Germany",5/10/1940,5/10/1940,57,57,,57.00,1,1,0,air-firebomb,RAF,,http://de.wikipedia.org/wiki/Bombenangriff_auf_Freiburg_am_10._Mai_1940
+Japan,"Osaka, Japan",8/11/1945,8/11/1945,173,173,,173.00,1,0.8,1,air-firebomb,,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Aomoridai, Japan",7/28/1945,7/28/1945,600,"1,767",,1183.50,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Matsuyama, Japan",7/26/1945,7/26/1945,259,259,,259.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Osaka, Japan",7/24/1945,7/24/1945,187,187,,187.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Tsu, Japan",7/24/1945,7/24/1945,400,"1,239",,819.50,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Okazaki, Japan",7/19/1945,7/20/1945,70,203,,136.50,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Choshi, Japan",7/19/1945,7/19/1945,400,"1,181",,790.50,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Hitachi, Japan",7/19/1945,7/19/1945,800,"2,199",,1499.50,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Fukui, Japan",7/19/1945,7/19/1945,600,"1,576",,1088.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Tsuruga, Japan",7/12/1945,7/12/1945,109,109,,109.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Utsunomiya, Japan",7/12/1945,7/12/1945,628,628,,628.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Sendai, Japan",7/10/1945,7/10/1945,828,828,,828.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Gifu, Japan",7/9/1945,7/9/1945,450,900,,675.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Sakai, Japan",7/9/1945,7/9/1945,900,"1,860",,1380.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Wakayama, Japan",7/9/1945,7/9/1945,600,"1,200",,900.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Kofu, Japan",7/6/1945,7/6/1945,400,"1,027",,713.50,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Chiba, Japan",7/6/1945,7/6/1945,500,"1,679",,1089.50,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Tokushima, Japan",7/4/1945,7/4/1945,129,129,,129.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Takamatsu, Japan",7/4/1945,7/4/1945,"1,359","1,359",,1359.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Himeji, Japan",7/3/1945,7/3/1945,173,173,,173.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Shimonoseki, Japan",7/2/1945,7/2/1945,324,324,,324.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Kure, Japan",7/1/1945,7/1/1945,"1,000","3,700",,2350.00,1,0.5,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Kumamoto, Japan",7/1/1945,7/1/1945,469,469,,469.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Okayama, Japan",6/29/1945,6/29/1945,"1,737","1,737",,1737.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Sasebo, Japan",6/29/1945,6/29/1945,"1,300","1,300",,1300.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Osaka, Japan",6/26/1945,6/26/1945,592,592,,592.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Kakamigahara, Japan",6/22/1945,6/22/1945,169,169,,169.00,1,0.5,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Mizushima, Japan",6/21/1945,6/21/1945,11,11,,11.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Himeji, Japan",6/21/1945,6/21/1945,341,341,,341.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Nagoya, Japan",6/20/1945,6/20/1945,426,426,,426.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Toyohashi, Japan",6/18/1945,6/19/1945,624,624,,624.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Shizuoka, Japan",6/18/1945,6/19/1945,"1,952","1,952",,1952.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Fukuoka, Japan",6/18/1945,6/18/1945,902,902,,902.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Yokkaichi, Japan",6/17/1945,6/17/1945,736,736,,736.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Hamamatsu, Japan",6/17/1945,6/17/1945,"1,720","1,720",,1720.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Kagoshima, Japan",6/16/1945,6/16/1945,"5,000","5,200",,5100.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Osaka, Japan",6/14/1945,6/14/1945,418,418,,418.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Chiba, Japan",6/9/1945,6/9/1945,152,152,,152.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Hitachi, Japan",6/9/1945,6/9/1945,"1,200","1,200",,1200.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Nagoya, Japan",6/8/1945,6/8/1945,"2,068","2,068",,2068.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Osaka, Japan",6/6/1945,6/6/1945,"1,594","1,594",,1594.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Kobe, Japan",6/4/1945,6/4/1945,"3,184","3,184",,3184.00,1,1,,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Nara, Japan",5/31/1945,5/31/1945,231,231,,231.00,1,1,,air-firebomb,,,
+Japan,"Osaka, Japan",5/31/1945,5/31/1945,"3,150","3,150",,3150.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Yokohama, Japan",5/28/1945,5/28/1945,"3,787","3,787",,3787.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Tokyo, Japan",5/24/1945,5/24/1945,"3,651","3,651",,3651.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Tokyo, Japan",5/23/1945,5/23/1945,762,762,,762.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Nagoya, Japan",5/16/1945,5/17/1945,"8,079","8,079",,8079.00,1,1,,air-firebomb,USAAF,,http://histclo.com/essay/war/ww2/air/pac/raid/45/nagoy.html
+Japan,"Kobe, Japan",5/10/1945,5/10/1945,"1,093","1,093",,1093.00,1,1,,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Tokyo, Japan",4/14/1945,4/14/1945,841,841,,841.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Tokyo, Japan",4/12/1945,4/13/1945,"2,459","2,459",,2459.00,1,1,1,air-firebomb,USAAF,,http://en.wikipedia.org/wiki/Air_raids_on_Japan
+Japan,"Nagoya, Japan",3/17/1945,3/18/1945,"1,037","1,037",,1037.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Kobe, Japan",3/15/1945,3/16/1945,"2,598","2,598",,2598.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Osaka, Japan",3/13/1945,3/14/1945,"3,115","3,115",,3115.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Nagoya, Japan",3/11/1945,3/12/1945,602,602,,602.00,1,1,1,air-firebomb,USAAF,,http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%9C%9F%E7%A9%BA%E8%A5%B2
+Japan,"Tokyo, Japan",3/7/1945,3/7/1945,"80,000","100,000",100000,90000.00,1,1,1,air-firebomb,USAAF,,http://en.wikipedia.org/wiki/Bombing_of_Tokyo_in_World_War_II
+United Kingdom,London,9/7/1940,9/7/1940,430,430,,430.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm
+United Kingdom,Liverpool,5/1/1941,5/8/1941,"1,750","1,750",,1750.00,1,1,,air-firebomb,LUFTW,,http://ww2today.com/3rd-may-1941-liverpools-may-blitz
+United Kingdom,Liverpool,8/9/1940,11/29/1940,35,35,,35.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://liverpoolremembrance.weebly.com/bombings-1942.html
+United Kingdom,Bristol,11/24/1940,5/15/1944,657,657,,657.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://www.bristolblitzed.org/?page_id=63
+United Kingdom,Cardiff,7/3/1940,7/2/1942,355,355,,355.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://www.bbc.co.uk/wales/history/sites/themes/periods/ww2_bombing.shtml
+United Kingdom,Hull,6/19/1940,5/3/1945,"1,200","1,200",,1200.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://www.bbc.co.uk/news/uk-england-humber-20341765
+United Kingdom,Portsmouth,7/11/1940,5/31/1944,"40,000","40,000",,40000.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://www.welcometoportsmouth.co.uk/the%20blitz.html
+United Kingdom,Plymouth,4/22/1941,4/23/1941,76,76,,76.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://www.mayflowersteps.co.uk/plymouth/theblitz.html
+United Kingdom,Plymouth,3/20/1941,3/21/1941,292,292,,292.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://plymouthdata.info/Second%20World%20War-1941-Blitz.htm
+United Kingdom,Southampton,11/30/1940,11/30/1940,630,630,,630.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://news.bbc.co.uk/local/hampshire/hi/people_and_places/history/newsid_9241000/9241143.stm
+United Kingdom,Swansea,2/19/1941,2/21/1941,227,227,,227.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://www.bbc.co.uk/wales/history/sites/themes/periods/ww2_bombing.shtml
+United Kingdom,Birmingham,10/25/1940,10/25/1940,19,19,,19.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://secondcity.weebly.com/air-raids-in-birmingham-during-world-war-ii.html
+United Kingdom,Birmingham,11/19/1940,11/28/1940,796,796,,796.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://secondcity.weebly.com/air-raids-in-birmingham-during-world-war-ii.html
+United Kingdom,Birmingham,4/9/1941,4/10/1941,"1,121","1,121",,1121.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://secondcity.weebly.com/air-raids-in-birmingham-during-world-war-ii.html
+United Kingdom,Belfast,4/7/1941,4/16/1941,"1,043","1,043",,1043.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://www.historylearningsite.co.uk/blitz_belfast_1941.htm
+United Kingdom,Belfast,5/4/1941,5/4/1941,200,200,,200.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://www.historylearningsite.co.uk/blitz_belfast_1941.htm
+United Kingdom,Coventry,11/14/1940,11/14/1941,380,554,,467.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://news.bbc.co.uk/onthisday/hi/dates/stories/november/15/newsid_3522000/3522785.stm
+United Kingdom,Glasgow,3/13/1941,3/14/1941,528,528,,528.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://www.educationscotland.gov.uk/scotlandshistory/20thand21stcenturies/worldwarii/clydebankblitz/index.asp
+United Kingdom,Manchester,12/22/1940,12/24/1940,684,684,,684.00,1,1,,air-firebomb,LUFTW,,http://www.century-of-flight.net/Aviation%20history/WW2/blitz.htm; http://manchesterhistorian.com/2011/the-manchester-blitz/
+Japan,"Nagasaki, Japan",8/8/1945,8/8/1945,"60,000","80,000",,70000.00,1,1,1,air-nuclear,USAAF,2nd atomic bomb,http://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki
+Japan,"Hiroshima, Japan",8/4/1945,8/4/1945,"90,000","166,000",,128000.00,1,0.95,1,air-nuclear,USAAF,1st atomic bomb,http://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki
+Austria,,9/1/1939,8/31/1945,50000,65000,61000,57500.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Belgium,,9/1/1939,8/31/1945,25000,29000,29000,27000.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Czechoslovakia,,9/1/1939,8/31/1945,77000,78300,82000,77650.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Denmark,,9/1/1939,8/31/1945,60,116,0,88.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Estonia,,9/1/1939,8/31/1945,1500,2000,2000,1750.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+France,,9/1/1939,8/31/1945,75000,77000,81000,76000.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Germany,,9/1/1939,8/31/1945,135000,142000,147000,138500.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Greece,,9/1/1939,8/31/1945,59000,67000,67000,63000.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Hungary,,9/1/1939,8/31/1945,50000,50000,,50000.00,,1,,,,Tam�s Stark of the Hungarian Academy of Sciences,http://en.wikipedia.org/wiki/World_War_II_casualties
+Hungary,,9/1/1939,8/31/1945,340000,569000,,454500.00,,1,,holocaust-jewish,,wikipedia totals (holo vs country seem to contradict),http://en.wikipedia.org/wiki/World_War_II_casualties
+Italy,,9/1/1939,8/31/1945,6500,9000,8000,7750.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Latvia,,9/1/1939,8/31/1945,70000,72000,75000,71000.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Lithuania,,9/1/1939,8/31/1945,130000,143000,145000,136500.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Luxembourg,,9/1/1939,8/31/1945,1000,2000,2000,1500.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Netherlands,,9/1/1939,8/31/1945,100000,105000,109000,102500.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Norway,,9/1/1939,8/31/1945,800,800,1000,800.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Poland,,9/1/1939,8/31/1945,2700000,3000000,3021000,2850000.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Romania,,9/1/1939,8/31/1945,121000,287000,216000,204000.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Soviet Union,,9/1/1939,8/31/1945,700000,1100000,954000,900000.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Yugoslavia,,9/1/1939,8/31/1945,56000,65000,64000,60500.00,,1,,holocaust-jewish,,"override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+Slovakia,,9/1/1939,8/31/1945,60000,71000,69000,65500.00,,1,,holocaust-jewish,,"no country total in wikipedia - maybew/ soviet? override hi-low-avg multiplied by 1.06, to get 5.7 million",http://en.wikipedia.org/wiki/World_War_II_casualties
+United Kingdom,,7/1/1942,7/1/1942,3086,3086,,3086.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,12/1/1942,12/1/1942,3857,3857,,3857.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,2/1/1943,2/1/1943,3086,3086,,3086.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,7/1/1944,7/1/1944,18129,18129,,18129.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,6/1/1945,6/1/1945,1543,1543,,1543.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,3/1/1941,3/1/1941,2700,2700,,2700.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,5/1/1944,5/1/1944,7715,7715,,7715.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,10/1/1942,10/1/1942,8100,8100,,8100.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,4/1/1944,4/1/1944,5786,5786,,5786.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,12/1/1945,12/1/1945,1157,1157,,1157.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,8/1/1944,8/1/1944,11572,11572,,11572.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,12/1/1940,12/1/1940,2314,2314,,2314.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,9/1/1939,9/1/1939,386,386,,386.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,8/1/1940,8/1/1940,1543,1543,,1543.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,4/1/1940,4/1/1940,1157,1157,,1157.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,5/1/1940,5/1/1940,21215,21215,,21215.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,10/1/1941,10/1/1941,1157,1157,,1157.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,4/1/1941,4/1/1941,4629,4629,,4629.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,9/1/1942,9/1/1942,5014,5014,,5014.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,5/1/1942,5/1/1942,5014,5014,,5014.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,6/1/1943,6/1/1943,5014,5014,,5014.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,4/1/1943,4/1/1943,10029,10029,,10029.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,10/1/1943,10/1/1943,4243,4243,,4243.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,6/1/1941,6/1/1941,3857,3857,,3857.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,9/1/1944,9/1/1944,25844,25844,,25844.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,7/1/1945,7/1/1945,1929,1929,,1929.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,1/1/1942,1/1/1942,3472,3472,,3472.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,6/1/1944,6/1/1944,21601,21601,,21601.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,6/1/1942,6/1/1942,5400,5400,,5400.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,3/1/1943,3/1/1943,6943,6943,,6943.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,1/1/1944,1/1/1944,5786,5786,,5786.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,11/1/1942,11/1/1942,10029,10029,,10029.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,2/1/1945,2/1/1945,6172,6172,,6172.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,5/1/1943,5/1/1943,5786,5786,,5786.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,11/1/1939,11/1/1939,1929,1929,,1929.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,7/1/1943,7/1/1943,7329,7329,,7329.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,9/1/1945,9/1/1945,1929,1929,,1929.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,4/1/1942,4/1/1942,1929,1929,,1929.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,11/1/1940,11/1/1940,771,771,,771.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,2/1/1944,2/1/1944,10800,10800,,10800.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,3/1/1944,3/1/1944,5400,5400,,5400.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,4/1/1945,4/1/1945,8872,8872,,8872.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,1/1/1943,1/1/1943,5786,5786,,5786.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,1/1/1945,1/1/1945,6557,6557,,6557.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,3/1/1945,3/1/1945,9643,9643,,9643.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,10/1/1939,10/1/1939,771,771,,771.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,6/1/1940,6/1/1940,10029,10029,,10029.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,5/1/1941,5/1/1941,3086,3086,,3086.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,8/1/1945,8/1/1945,1929,1929,,1929.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,8/1/1943,8/1/1943,6557,6557,,6557.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,11/1/1943,11/1/1943,6943,6943,,6943.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,9/1/1943,9/1/1943,5014,5014,,5014.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,12/1/1943,12/1/1943,5786,5786,,5786.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,10/1/1944,10/1/1944,9643,9643,,9643.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,1/1/1946,1/1/1946,771,771,,771.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,7/1/1940,7/1/1940,386,386,,386.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,12/1/1941,12/1/1941,3472,3472,,3472.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,12/1/1944,12/1/1944,7329,7329,,7329.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,12/1/1939,12/1/1939,386,386,,386.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,8/1/1941,8/1/1941,1543,1543,,1543.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,11/1/1944,11/1/1944,4629,4629,,4629.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,1/1/1941,1/1/1941,1929,1929,,1929.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,2/1/1942,2/1/1942,8100,8100,,8100.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,5/1/1945,5/1/1945,3472,3472,,3472.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,11/1/1945,11/1/1945,386,386,,386.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,4/1/1946,4/1/1946,771,771,,771.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,11/1/1941,11/1/1941,3472,3472,,3472.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,2/1/1941,2/1/1941,1543,1543,,1543.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,8/1/1942,8/1/1942,771,771,,771.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,2/1/1940,2/1/1940,771,771,,771.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,9/1/1941,9/1/1941,386,386,,386.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,7/1/1941,7/1/1941,1157,1157,,1157.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,2/1/1946,2/1/1946,1157,1157,,1157.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,1/1/1940,1/1/1940,386,386,,386.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,3/1/1942,3/1/1942,3086,3086,,3086.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,10/1/1945,10/1/1945,1157,1157,,1157.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,10/1/1940,10/1/1940,386,386,,386.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604
+United Kingdom,,3/1/1946,3/1/1946,386,386,,386.00,,0,,,,used ancestry.com to estimate distribution by month,http://en.wikipedia.org/wiki/World_War_II_casualties and http://search.ancestry.com/search/db.aspx?dbid=1604

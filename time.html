@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>WWII</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <script src="//d3js.org/d3.v4.min.js"></script>
+  <script src="D3/d3-selection-multi.js"></script>
+  <!--useless-->
+  <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>-->
+  <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>-->
+
+</head>
+
+
+
+<body class="time">
+  <div id="main">
+  
+	<div id="header">
+		<div id="logo">
+		    <div id="logo_text">
+				<h1><a href="index.html">World War <span class="logo_colour">II</span></a></h1>
+				<h2>The Second World War Casualties Statistics</h2>
+		    </div>
+		</div>
+		<div id="menubar">
+			<ul id="menu">
+			<li><a href="index.html">About</a></li>
+			<li><a href="bubble.html">Population Based</a></li>
+			<li class="selected"><a href="time.html">Time Based</a></li><!--class="selected" in the li tag for the selected page-->
+			<li><a href="location.html">Location Based</a></li>
+        </ul>
+		</div>
+	</div>
+		
+			
+		
+	<div id="site_content">
+	
+		<div class="sidebar">
+			<h3>Guide:</h3>
+				<p>Select a Year from the drop down list.</p>
+				<p>You now observe the Casulties during that year for each country. <br/>Or you can choose total from the menu.</p>
+				<p>This is a stacked bar chart, Which means the tip of the bar is the total death.</p>
+			<h3>References</h3>
+			<ul>
+			  <li><a href="http://curran.github.io/screencasts/splittingCharts/examples/viewer/#/16">github</a></li>
+			  <li><a href="https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html">graph gallery</a></li>
+			</ul>
+		</div>
+		
+		
+		<div id="content">		
+			<div id="stackedbars">
+			    <h1>Stacked Bar Chart</h1>
+				<table><tr>
+					<td>
+						<svg id="stacked" width="650" height="500"></svg>
+					</td>
+					<td>
+						<div id="year-selector">
+							<label>Year:</label>
+							<select id="chosenyear" onchange="ChangeYear(this.options[this.selectedIndex].value)">
+								<option selected value="total">Total</option>
+								<option value="39">1939</option>
+								<option value="40">1940</option>
+								<option value="41">1941</option>
+								<option value="42">1942</option>
+								<option value="43">1943</option>
+								<option value="44">1944</option>
+								<option value="45">1945</option>
+								<option value="46">1946</option>
+							</select>
+						</div>
+					</td>
+				</tr></table>
+			</div>
+		</div>
+		
+	</div>
+  </div>
+  <script src="time.js"></script> 
+</body>
+</html>

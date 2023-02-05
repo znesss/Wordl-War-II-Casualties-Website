@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+  <title>WWII</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <!-- Load d3.js -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="d3/d3-selection-multi.js"></script>
+  <script src="//d3js.org/d3-tile.v0.0.min.js"></script>
+  <script src="d3/topojson.js"></script>
+</head>
+
+<body class="location">
+  <div id="main">
+  
+	<div id="header">
+		<div id="logo"> <!--pic in css-->
+		  <div id="logo_text">
+            <h1><a href="index.html">World War <span class="logo_colour">II</span></a></h1>
+            <h2>The Second World War Casualties Statistics</h2>
+          </div>
+		</div>
+		<div id="menubar">
+			<ul id="menu">
+				<li><a href="index.html">About</a></li> 
+				<li><a href="bubble.html">Population Based</a></li>
+				<li><a href="time.html">Time Based</a></li>
+				<li class="selected"><a href="location.html">Location Based</a></li><!--class="selected" in the li tag for the selected page-->
+			</ul>
+		</div>	
+	</div>	
+		
+	<div id="site_content">
+	
+		<div class="sidebar">
+			<h3>Guide:</h3>
+				<p>Select a Country from the map. Use the menu to focus.</p>
+				<p>The map and colors correspond to the borders during WWII. Therefore for instance, choosing Russia, Ukrain, Azerbaijan,...; all result the details of Soviet Union.<br/> Hovering over the map, provides information of the country.</p>
+				<p>Then Scroll down the page to see The details as well as a Pie Chart.</p>
+				<p>The Pie chart shows the AVERAGE casualty in each 1-year period.<br/>Hover to see the year related to each slice of pie.</p>
+			<h3>References</h3>
+			<ul>
+			  <li><a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Map_of_participants_in_World_War_II.png">For Sanity Check</a></li>
+			  <li><a href="https://gist.github.com/phil-pedruco/10447085">github for country codes</a></li>
+			  <li><a href="http://bl.ocks.org/dbuezas/9306799">bl.ocks</a></li>
+			</ul>
+      </div>
+	  
+	  <div id="content">
+	  <table id="loc">
+		<tr>
+			<td colspan="2">
+				<h1>World Map</h1>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<div id="areaselector">
+					<label>Area:</label>
+					<select id="chosenarea" onchange="MapRedraw(this.options[this.selectedIndex].value)">
+							<option selected value="whole">Whole Map</option>
+							<option value="europe">Europe</option>
+							<option value="asia">Asia</option>
+					</select>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<svg width="400" height="30">
+					<rect class="allies legend-element" x="0" y="5" width="1" height="1"></rect>
+					<text x="18" y="18">Allies</text>
+					<rect class="axis legend-element" x="60" y="5" width="100" height="100"></rect>
+					<text x="78" y="18">Axis</text>
+					<rect class="none legend-element" x="120" y="5" width="200" height="200"></rect>
+					<text x="138" y="18">Neutral</text>
+				</svg>
+				<svg id="world-map" width="750" height="450">
+					<g id="map"  transform="translate(0,-200)"></g><g id="points"></g>
+				</svg>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">					
+				<h1  id="countryname">Country</h1>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div id="details" class="view">
+					<h5 id="deathtotal">Total deaths:</h5>
+					<h5>Detailed Casualties:</h5>
+					<div id="casualties">
+						<ul id="casdetail"></ul>
+					</div>
+				</div>
+			</td>
+			<td>
+				<h1 id="pietitle" style="opacity:0">Pie Chart</h1>
+				<div id="piechart" class="view"></div>
+			</td>
+		</tr>
+	  </table>
+	  </div>
+	
+	
+			
+    </div>
+	<script src="location.js"></script>	
+  </div>
+
+</body>
+</html>
