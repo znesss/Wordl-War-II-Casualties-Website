@@ -10,11 +10,11 @@ Remember, to be able to access the data files with javascript, you will need to 
 
 cd path/to/WWII
 
-# python 2
+python 2:
 
 python -m SimpleHTTPServer
 
-# python 3
+python 3:
 
 python3 -m http.server
 
